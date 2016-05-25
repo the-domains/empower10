@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Empower10]]></title>
         <description><![CDATA[Empower10]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/empower10/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 14:25:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 14:25:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/empower10/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Empower10]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77182736-8df2-4108-8e8f-dbc7628f10c4.jpg" alt="" title="">]]></description>
-            <link>undefinedempower10/index.html</link>
+            <link>https://thegrid.ai/empower10/empower10/index.html</link>
             <guid isPermaLink="false">abc2e445-8594-41d0-a27b-c30d5cd2969b</guid>
-            <pubDate>Wed, 25 May 2016 14:25:04 GMT</pubDate>
+            <pubDate>Wed, 25 May 2016 14:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
